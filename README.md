@@ -8,6 +8,9 @@ Download files in dist to get application, get all other files for source.
 Study MP3 Player
 ==============
 
+When I study I find music can be distracting and I find myself changing it alot. So this is just a little player that can only play a single song so it creates a nice background noise and then it makes itself hard to access - not impossible, but just annoying. Have to minimise everything to find it. Most of all did it for fun and to learn :P
+
+
 Prior to running the player it is suggested to instal source sans pro custom font provided.
 If it is not installed then the font used will be the system font.
 To run the player double click KSMP.jar inside it's folder
