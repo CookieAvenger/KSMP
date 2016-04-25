@@ -2,12 +2,11 @@
 
 Programmed using Java.
 Only tested thoroughly on Windows 7.
+Download files in dist to get application, get all other files for source.
 
 ==============
 Study MP3 Player
 ==============
-
-Download files in dist to get application, get all other files for source.
 
 Prior to running the player it is suggested to instal source sans pro custom font provided.
 If it is not installed then the font used will be the system font.
